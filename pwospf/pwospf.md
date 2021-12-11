@@ -20,7 +20,7 @@
                        added data structures needed for the pwospf subsystem;
                        initialized the pwospf subsystem;
                        added methods needed for handling Hello and LSU packets;
-                       implemented breadth-first search (BFS) for finding shortest path;
+                       implemented breadth-first search (BFS) for finding the shortest path;
 
 **Functionalities available:**
 
