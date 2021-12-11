@@ -2,6 +2,12 @@
  
 **Description:** Implement PWOSPF dynamic routing.
 
+**Resources used:**
+
+0. Project description document
+1. [POSIX thread (pthread) libraries](https://www.cs.cmu.edu/afs/cs/academic/class/15492-f07/www/pthreads.html)
+2. Various StackOverflow posts
+3. More specific sources cited within the code.
 
 **Changes made to the [stub code](https://github.com/gkorpal/pwospf):**
 
