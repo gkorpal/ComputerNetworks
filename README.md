@@ -13,7 +13,7 @@ Since I can't share the code from the assignments from the Computer Networks cou
 * Software defined networks (OpenFlow, Google B4)
 * Future internet (IPv6 and NDN)
 
-The reference texts (click on the images to visit their websites):
+The reference texts I used (click on the images to visit their websites):
 
 <p>
 <center>
