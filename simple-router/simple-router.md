@@ -2,15 +2,15 @@
                 
 **Resources used:**
 
-(0) Class slides and description document
-(1) [Sami Niiranen](https://github.com/saminiir/level-ip)
-(2) [Stanford, CS144, Fall 2009](http://www.scs.stanford.edu/09au-cs144/lab/router.html)
-(3) [Princeton, COS461, Spring 2010](https://www.cs.princeton.edu/courses/archive/spr10/cos461/assignments-router.html)
-(4) [UCSD, CSE123, Fall 2013](https://cseweb.ucsd.edu/classes/fa13/cse123-a/project.html)
-(5) [UCLA, CS118, Spring 2017](http://web.cs.ucla.edu/classes/spring17/cs118/project-3.html)
-(6) [Bryant and O'Hallaron, Computer Systems: A Programmer's Perspective](http://csapp.cs.cmu.edu/3e/home.html)
-(7) Various StackOverflow posts
-(8) More specific sources cited within the code.
+0. Class slides and description document
+1. [Sami Niiranen](https://github.com/saminiir/level-ip)
+2. [Stanford, CS144, Fall 2009](http://www.scs.stanford.edu/09au-cs144/lab/router.html)
+3. [Princeton, COS461, Spring 2010](https://www.cs.princeton.edu/courses/archive/spr10/cos461/assignments-router.html)
+4. [UCSD, CSE123, Fall 2013](https://cseweb.ucsd.edu/classes/fa13/cse123-a/project.html)
+5. [UCLA, CS118, Spring 2017](http://web.cs.ucla.edu/classes/spring17/cs118/project-3.html)
+6. [Bryant and O'Hallaron, Computer Systems: A Programmer's Perspective](http://csapp.cs.cmu.edu/3e/home.html)
+7. Various StackOverflow posts
+8. More specific sources cited within the code.
 
 **Description:** Implement  ARP (reply, request, cache), IP (checksum, forwarding, cache), and ICMP (checksum, ping).
 
