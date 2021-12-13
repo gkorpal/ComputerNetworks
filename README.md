@@ -1,4 +1,4 @@
-Since I can't share the code from the assignments for the Computer Networks course I took during Fall 2021 (UArizona), I am sharing a description of their objectives. We built a software router that ran over the network topology provided by the [Virtual Network Lab](https://github.com/gkorpal/VNL) hosted on a Ubuntu 14.04 server.
+I can't share the code from the assignments for the Computer Networks course I took during Fall 2021 (UArizona) since they are the same every year. Therefore, I have shared a description of what we did for the projects. We built a software router that ran over the network topology provided by the [Virtual Network Lab](https://github.com/gkorpal/VNL) hosted on a Ubuntu 14.04 server.
 
 **Topics covered by Prof. Beichuan Zhang**
 
