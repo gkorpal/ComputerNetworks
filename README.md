@@ -1,7 +1,6 @@
-I can't share the code from the assignments for CSC 525 course (Principles of Computer Networking) taught by Beichuan Zhang during Fall 2021 (graduate @ UArizona) since they are the same every year. Therefore, I have shared a description of what we did for the projects. We built a software router that ran over the network topology provided by the [Virtual Network Lab](https://github.com/gkorpal/VNL) hosted on a Ubuntu 14.04 server.
+For CSC 525 course (Principles of Computer Networking) taught by Beichuan Zhang during Fall 2021 (graduate @ UArizona), we built a software router that ran over the network topology provided by the [Virtual Network Lab](https://github.com/gkorpal/VNL) hosted on a Ubuntu 14.04 server.  However, I can't share the sourcecode of the project since it is the same every year. Therefore, I have shared a description of what we did for the projects. 
 
-
-Topics covered:
+Topics covered during the course:
 * Design philosophy of IP (packet switching, dynamic routing, hourglass design, and End-to-End argument)
 * Intra-domain routing (RIP -- Loop Free Path Finding Algorithm; and OSPF -- D-SPF and HN-SPF)
 * Inter-domain routing (BGP -- damping, routing policy, peering, network topology, Power-Laws, prefix hijacking, ...)
