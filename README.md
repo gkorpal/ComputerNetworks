@@ -26,3 +26,5 @@ The reference texts I used (click on the images to visit their websites):
   </a>
    </center>
  </p>
+
+**Equivalent courses:** [CS144 @ Stanford](http://www.scs.stanford.edu/09au-cs144/), [COS461 @ Princeton](https://www.cs.princeton.edu/courses/archive/spr14/cos461/index.html), [CS118 @ UCLA](http://web.cs.ucla.edu/classes/spring17/cs118/), [CSE123 @ UCSD](https://cseweb.ucsd.edu/classes/fa14/cse123-a/), [COMPSCI356 @ Duke](https://courses.cs.duke.edu/compsci356/spring14/index.html), and [CMSC23320 @ UChicago](https://uchicago-cs.github.io/cmsc23320/index.html).
